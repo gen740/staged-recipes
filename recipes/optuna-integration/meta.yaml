@@ -38,6 +38,7 @@ about:
   doc_url: https://optuna-integration.readthedocs.io
   dev_url: https://github.com/optuna/optuna-integration
 
+
 extra:
   recipe-maintainers:
     - c-bata
